@@ -20,8 +20,8 @@ from commonTypes import LevelString, RobDict
 import robtopCrypto
 
 
-url: str = "https://absolllute.com/gdps/gdapi/uploadGJLevel19.php"
-gameVersion: int = 19
+url: str = "http://wayveyx.x10.mx/gdps/garlic/downloadGJLevel.php"
+gameVersion: int = 7
 username: str = "21Reupload"
 
 
