@@ -226,7 +226,7 @@ objNames: Dict[int, str] = {
 }
 
 """
-[2.1 obj id, 1.9 equivalent]
+[2.1 obj id, 1.6 equivalent]
 """
 objIds: Dict[int, int] = {
     1338: 665,
@@ -307,7 +307,7 @@ objIds: Dict[int, int] = {
 }
 
 """
-[2.1 obj id, 1.9 equivalent]
+[2.1 obj id, 1.6 equivalent]
 """
 clubstepObjConv: Dict[int, int] = {
     1140: 162,
@@ -320,7 +320,7 @@ clubstepObjConv: Dict[int, int] = {
 }
 
 """
-[2.1 obj id, 1.9 equivalent]
+[2.1 obj id, 1.6 equivalent]
 """
 glowObj: Dict[int, int] = {
     1011: 503,
@@ -329,7 +329,7 @@ glowObj: Dict[int, int] = {
 }
 
 """
-[2.1 obj id, 1.9 equivalent]
+[2.1 obj id, 1.6 equivalent]
 """
 colorDefaultBlockObj: Dict[int, int] = {
     1820: 247,
@@ -342,7 +342,7 @@ colorDefaultBlockObj: Dict[int, int] = {
 }
 
 """
-[2.1 obj id, 1.9 equivalent]
+[2.1 obj id, 1.6 equivalent]
 """
 colorTrigObj: Dict[int, int] = {
     1000: 29,
@@ -357,7 +357,7 @@ colorTrigObj: Dict[int, int] = {
 }
 
 """
-[2.1 color id, 1.9 equivalent]
+[2.1 color id, 1.6 equivalent]
 """
 objColors: Dict[int, int] = {
     1005: 1,
@@ -370,7 +370,7 @@ objColors: Dict[int, int] = {
 }
 
 """
-[2.1 color id, 1.9 header equivalent]
+[2.1 color id, 1.6 header equivalent]
 """
 headerColorID: Dict[int, str] = {
     1000: 'kS29',
