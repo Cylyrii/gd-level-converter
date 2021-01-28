@@ -20,7 +20,7 @@ from commonTypes import LevelString, RobDict
 import robtopCrypto
 
 
-url: str = "http://wayveyx.x10.mx/gdps/garlic/downloadGJLevel.php"
+url: str = "http://wayveyx.x10.mx/gdps/garlic/uploadGJLevel.php"
 gameVersion: int = 7
 username: str = "21Reupload"
 
@@ -54,7 +54,7 @@ def uploadLevel(levelString: LevelString, levelInfo: RobDict,
         "levelVersion": levelInfo["5"],
         "levelLength": levelInfo["15"],
         "audioTrack": levelInfo["12"],
-        "password": 1,
+        "password": 0,
         "levelID": 0,
         "original": levelInfo["1"],
         "songID": levelInfo.get(
